@@ -35,8 +35,8 @@ limit = 20
 [author]
 name = "cathay"
 avatar = "https://avatars.githubusercontent.com/u/17735318?s=96&v=4"
-bio = "把生命浪费在美好的事物上"
-homepage = "https://chenguotai.com/"
+bio = "君子少思长，则学；老思死，则教；有思穷，则施也。"
+homepage = "https://www.chenguotai.com/"
 
 [params]
 favicon = "https://avatars0.githubusercontent.com/u/1725326?s=460&v=4"
@@ -66,7 +66,7 @@ link = "https://creativecommons.org/licenses/by-nc/4.0/deed.zh"
 
 # 文章打赏
 [params.reward]
-enable = true
+enable = false
 title = "打赏"
 wechat = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153510.png" # 微信二维码
 alipay = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153431.png" # 支付宝二维码
@@ -74,10 +74,9 @@ alipay = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153431.p
 ############ 评论系统  end ##############
 ## 社交链接
 [social]
-github = "forecho"
-instagram = "forecho"
-twitter = "caizhenghai"
-douban = "ipzone"
+github = "Cathay-Chen"
+twitter = "cathay_tiger"
+douban = "cathaychen"
 rss = "/atom.xml"
 
 # [params.utterances] # https://utteranc.es/
@@ -87,10 +86,10 @@ rss = "/atom.xml"
 # issueterm = "title"
 
 [params.giscus] # https://giscus.app
-repo = "forecho/hugo-blog" # Repo where the comments will live
-repo_id = "MDEwOlJlcG9zaXRvcnkyMzMwMzE1NDU" # Repo where the comments will live
+repo = "Cathay-Chen/Cathay-Chen.github.io" # Repo where the comments will live
+repo_id = "R_kgDOHuRQ5A" # Repo where the comments will live
 category = "Announcements" # Repo where the comments will live
-category_id = "DIC_kwDODePHec4COSbJ" # Repo where the comments will live
+category_id = "DIC_kwDOHuRQ5M4CQduV" # Repo where the comments will live
 mapping = "title" # How Utterances will match comment to page
 theme = "dark_dimmed" # What theme to use
 reactions_enabled = 1 # Enable reactions
