@@ -1,4 +1,4 @@
-# Cathay-Chen.github.io
+# My Hugo Blog
 🐯 Cathay's Blog
 
 
