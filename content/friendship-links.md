@@ -1,6 +1,6 @@
 ---
 title: 联盟链接
-date: 2019-03-16T13:59:00+08:00
+date: 2022-07-27T22:59:00+08:00
 comments: true
 reward: false
 url: /friendship-links/
@@ -8,7 +8,7 @@ url: /friendship-links/
 
 ## 关于
 
-[征集友情链接](/collect-friendship-links.html)
+[征集友情链接](https://blog.forecho.com/collect-friendship-links.html)
 
 ## 联盟列表
 
