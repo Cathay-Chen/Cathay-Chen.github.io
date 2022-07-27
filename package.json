@@ -1,0 +1,19 @@
+{
+    "name": "cathay-blog",
+    "version": "0.0.1",
+    "description": "that is cahtay blog",
+    "repository": "https://github.com/cathay/Cathay-Chen.github.io",
+    "license": "MIT",
+    "devDependencies": {
+        "autoprefixer": "^10.2.5",
+        "postcss": "^8.2.9",
+        "postcss-cli": "^8.3.1",
+        "tailwindcss": "^2.0.4"
+    },
+    "browserslist": [
+        "last 1 version",
+        "> 1%",
+        "maintained node versions",
+        "not dead"
+    ]
+}
