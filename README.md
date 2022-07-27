@@ -2,6 +2,6 @@
 🐯 Cathay's Blog
 
 
-- Created by [hugo](https://github.com/gohugoio/hugo)
-- Theme by [hugo-theme-echo](https://github.com/forecho/hugo-theme-echo)
-- Comment by [giscus](https://github.com/giscus/giscus)
+- Powered by [**hugo**](https://github.com/gohugoio/hugo)
+- Theme based on [**hugo-theme-echo**](https://github.com/forecho/hugo-theme-echo)
+- Comment use [**giscus**](https://github.com/giscus/giscus)
