@@ -6,7 +6,7 @@ draft: false
 
 ## 个人信息
 
-- forecho
+- Cathay
 - 工作年限：6 年 +
 - 技术博客：<https://blog.chenguotai.com>
 - Github: <http://github.com/Cathay-Chen>
