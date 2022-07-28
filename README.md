@@ -4,4 +4,5 @@
 
 - Powered by [**hugo**](https://github.com/gohugoio/hugo)
 - Theme based on [**hugo-theme-echo**](https://github.com/forecho/hugo-theme-echo)
-- Comment use [**giscus**](https://github.com/giscus/giscus)
+- Comment based on [**giscus**](https://github.com/giscus/giscus)
+- Site statistics based on [**busuanzi**](https://ibruce.info/2015/04/04/busuanzi)
