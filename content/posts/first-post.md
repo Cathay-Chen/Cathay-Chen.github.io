@@ -18,31 +18,31 @@ draft: false
 
 1. 使用 brew 安装
 
-   ```shell
-   ## 安装 hugo 
-   brew install hugo
-   ```
+```shell
+## 安装 hugo 
+brew install hugo
+```
 
 2. 创建新站点
 
    >  相当于初始化一个新的项目 :）
 
-   ```shell
-   ## 创建站点
-   hugo new site 站点名称
-   ```
+```shell
+## 创建站点
+hugo new site 站点名称
+```
 
 3. 添加一个主题
 
    > 这里我使用的是我一个一直关注的博主的主题，[hugo-theme-echo](https://github.com/forecho/hugo-theme-echo)，其他更多主题可以通过官方提供的[主题链接](https://themes.gohugo.io/)自行选择。
 
-   ```shell
-   ## 打开刚创建的站点目录
-   cd 站点名称
-   
-   ## git 初始化并 clone 主题文件到 git 子模块
-   git init
-   git submodule add https://github.com/forecho/hugo-theme-echo.git themes/echo
+```shell
+## 打开刚创建的站点目录
+cd 站点名称
+
+## git 初始化并 clone 主题文件到 git 子模块
+git init
+git submodule add https://github.com/forecho/hugo-theme-echo.git themes/echo
    ```
 
 4. 在根目录添加 `package.json` 文件，代码如下（一些个人信息请改成你自己的）：
