@@ -23,12 +23,29 @@ draft: false
 - 数据库相关：MySQL/PDO
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
 
-## 喜欢看的书
+## 读书清单
 
-- 人月神话
-- 软件随想录
-- 黑客与画家
-- 高效能程序员的修炼
-- 重来
-- 暗时间
-- 智识分子
+### 非技术
+
+	- [如何阅读一本书 ](https://book.douban.com/subject/1013208/)
+	- [哲学的故事](https://book.douban.com/subject/14439405/)
+	- [认知觉醒](https://book.douban.com/subject/35193035/)
+	- [人类简史](https://book.douban.com/subject/25985021/)
+
+### 技术
+
+ - [Redis 开发与运维](https://book.douban.com/subject/26971561/)
+ - [Redis 设计与实现](https://book.douban.com/subject/25900156/)
+	- [区块链DApp开发](https://book.douban.com/subject/35254530/)
+
+
+
+## 软件推荐
+
+- [scoop](https://github.com/ScoopInstaller/Scoop)  
+
+  windows 命令行安装软件 工具，类似于 Mac 中的 brew
+
+- [Koodo Reader](https://koodo.960960.xyz/zh)
+
+​		Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。支持 Windows、macOS、Linux 和网页版。
