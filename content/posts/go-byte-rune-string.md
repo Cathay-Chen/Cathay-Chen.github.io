@@ -235,4 +235,4 @@ fmt.Println(s1)
 
 1. [「Go」byte、rune与string](https://studygolang.com/articles/28115)
 
-2. [Go语言字符类型（byte和rune）](
+2. [Go语言字符类型（byte和rune）](http://c.biancheng.net/view/18.html)
