@@ -27,16 +27,16 @@ draft: false
 
 ### 非技术
 
-	- [如何阅读一本书 ](https://book.douban.com/subject/1013208/)
-	- [哲学的故事](https://book.douban.com/subject/14439405/)
-	- [认知觉醒](https://book.douban.com/subject/35193035/)
-	- [人类简史](https://book.douban.com/subject/25985021/)
+- [如何阅读一本书](https://book.douban.com/subject/1013208/)
+- [哲学的故事](https://book.douban.com/subject/14439405/)
+- [认知觉醒](https://book.douban.com/subject/35193035/)
+- [人类简史](https://book.douban.com/subject/25985021/)
 
 ### 技术
 
  - [Redis 开发与运维](https://book.douban.com/subject/26971561/)
  - [Redis 设计与实现](https://book.douban.com/subject/25900156/)
-	- [区块链DApp开发](https://book.douban.com/subject/35254530/)
+ - [区块链DApp开发](https://book.douban.com/subject/35254530/)
 
 
 
@@ -48,4 +48,4 @@ draft: false
 
 - [Koodo Reader](https://koodo.960960.xyz/zh)
 
-​		Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。支持 Windows、macOS、Linux 和网页版。
+  Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。支持 Windows、macOS、Linux 和网页版。
